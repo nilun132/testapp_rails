@@ -21,7 +21,7 @@ gem 'less-rails'
 gem 'twitter-bootswatch-rails'
 gem 'twitter-bootswatch-rails-helpers'
 
-gem 'puma'
+gem 'puma', '~> 4.1'
 
 gem 'execjs'
 gem 'turbolinks'
