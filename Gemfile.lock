@@ -41,6 +41,7 @@ GEM
     arel (6.0.4)
     awesome_print (1.9.2)
     bcrypt (3.1.16)
+    bigdecimal (1.4.2)
     bson (4.12.1)
     builder (3.2.4)
     capistrano (3.16.0)
@@ -207,6 +208,7 @@ PLATFORMS
 
 DEPENDENCIES
   awesome_print
+  bigdecimal (= 1.4.2)
   capistrano
   capistrano-bundler
   capistrano-rails

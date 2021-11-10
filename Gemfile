@@ -33,3 +33,4 @@ gem 'quiet_assets'
 gem 'devise'
 gem 'mongoid'
 
+gem 'bigdecimal', '1.4.2'
