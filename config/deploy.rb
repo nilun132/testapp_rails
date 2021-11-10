@@ -7,7 +7,7 @@ set :application,     'testapp'
 set :user,            'nilun'
 set :puma_threads,    [4, 16]
 set :puma_workers,    0
-set :rvm_ruby_version, '2.6.5'
+set :rvm_ruby_version, '2.2.1'
 
 # Don't change these unless you know what you're doing
 set :pty,             true
